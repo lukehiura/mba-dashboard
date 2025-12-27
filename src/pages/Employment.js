@@ -20,8 +20,6 @@ import {
   Paper,
 } from '@mui/material';
 import {
-  BarChart,
-  Bar,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -68,6 +66,7 @@ function Employment() {
         },
       });
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // Set initial year when data loads
@@ -80,7 +79,7 @@ function Employment() {
         setSelectedYear(schoolYears[0]);
       }
     }
-  }, [employmentData, selectedSchool]);
+  }, [employmentData, selectedSchool, selectedYear]);
 
   const schools = [...new Set(employmentData.map(d => d.School))].filter(Boolean).sort();
   const years = selectedSchool 

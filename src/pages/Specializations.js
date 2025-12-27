@@ -28,7 +28,6 @@ import Papa from 'papaparse';
 
 function Specializations() {
   const [employmentData, setEmploymentData] = useState([]);
-  const [industryData, setIndustryData] = useState([]);
 
   useEffect(() => {
     Promise.all([
@@ -45,8 +44,9 @@ function Specializations() {
       Papa.parse(industryText, {
         header: true,
         complete: (results) => {
-          const cleaned = results.data.filter(row => row.School && row.Year && row.Industry && row.Percentage);
-          setIndustryData(cleaned);
+          // Industry data parsed but not currently used in this component
+          // const cleaned = results.data.filter(row => row.School && row.Year && row.Industry && row.Percentage);
+          // setIndustryData(cleaned);
         },
       });
     });
@@ -99,17 +99,18 @@ function Specializations() {
     return result;
   };
 
-  const getTopFunctionsForSchool = (school) => {
-    const data = getSpecializationData()[school] || {};
-    return Object.entries(data)
-      .sort((a, b) => b[1].percent - a[1].percent)
-      .slice(0, 5)
-      .map(([func, stats]) => ({
-        function: func,
-        percent: stats.percent,
-        dataPoints: stats.count,
-      }));
-  };
+  // Unused function - commented out to fix ESLint warning
+  // const getTopFunctionsForSchool = (school) => {
+  //   const data = getSpecializationData()[school] || {};
+  //   return Object.entries(data)
+  //     .sort((a, b) => b[1].percent - a[1].percent)
+  //     .slice(0, 5)
+  //     .map(([func, stats]) => ({
+  //       function: func,
+  //       percent: stats.percent,
+  //       dataPoints: stats.count,
+  //     }));
+  // };
 
   const getSchoolsByFunction = (targetFunction) => {
     const data = getSpecializationData();

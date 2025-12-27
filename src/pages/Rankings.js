@@ -98,12 +98,14 @@ function Rankings() {
         setPoetsQuantsData(cleanedData);
       },
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     if (rankingsData.length > 0) {
       processChartData(rankingsData, selectedSchools, timePeriod);
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedSchools, timePeriod, rankingsData]);
 
   const processChartData = (data, schools, period) => {
@@ -271,19 +273,6 @@ function Rankings() {
     }
   };
 
-  // Get rank change from previous year for P&Q rankings
-  const getPQRankChange = (school, year) => {
-    const currentYear = parseInt(year);
-    const previousYear = currentYear - 1;
-    
-    const current = poetsQuantsData.find(d => d.School === school && d.Year === year);
-    const previous = poetsQuantsData.find(d => d.School === school && d.Year === previousYear.toString());
-    
-    if (!current || !previous) return null;
-    
-    const change = parseInt(previous.Rank) - parseInt(current.Rank);
-    return change; // Positive = improved (moved up)
-  };
 
   // Calculate average rank across available component rankings
   // Merge official U.S. News data with P&Q data
