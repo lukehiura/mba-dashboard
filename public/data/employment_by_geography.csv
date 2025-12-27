@@ -1,0 +1,122 @@
+School,Year,Region,Percentage,Job_Type
+Columbia,2024,United States,79.0,Graduate
+Columbia,2024,Asia,9.0,Graduate
+Columbia,2024,Europe,5.0,Graduate
+Columbia,2024,Central & South America,4.0,Graduate
+Columbia,2024,Africa & Middle East,3.0,Graduate
+Columbia,2024,Other,0.3,Graduate
+Columbia,2023,United States,86.0,Graduate
+Columbia,2023,Asia,5.0,Graduate
+Columbia,2023,Europe,4.0,Graduate
+Columbia,2023,Central & South America,2.0,Graduate
+Columbia,2022,United States,86.0,Graduate
+Columbia,2022,Asia,7.0,Graduate
+Columbia,2022,Europe,4.0,Graduate
+Columbia,2022,Central & South America,2.0,Graduate
+Columbia,2021,United States,86.0,Graduate
+Columbia,2021,Asia,7.0,Graduate
+Columbia,2021,Europe,4.0,Graduate
+Columbia,2021,Central & South America,2.0,Graduate
+Harvard,2025,United States,92.0,Graduate
+Harvard,2025,Northeast (US),48.0,Graduate
+Harvard,2025,West (US),24.0,Graduate
+Harvard,2025,International,8.0,Graduate
+Harvard,2024,United States,88.0,Graduate
+Harvard,2024,Northeast (US),49.0,Graduate
+Harvard,2024,West (US),17.0,Graduate
+Harvard,2024,International,12.0,Graduate
+Harvard,2023,United States,89.0,Graduate
+Harvard,2023,Northeast (US),54.0,Graduate
+Harvard,2023,West (US),16.0,Graduate
+Harvard,2023,International,11.0,Graduate
+Harvard,2022,United States,91.0,Graduate
+Harvard,2022,Northeast (US),47.0,Graduate
+Harvard,2022,West (US),24.0,Graduate
+Harvard,2022,International,9.0,Graduate
+Harvard,2021,United States,87.0,Graduate
+Harvard,2021,Northeast (US),49.0,Graduate
+Harvard,2021,West (US),22.0,Graduate
+Harvard,2021,International,13.0,Graduate
+Chicago Booth,2025,United States,94.9,Graduate
+Chicago Booth,2025,Midwest (US),32.2,Graduate
+Chicago Booth,2025,Northeast (US),29.0,Graduate
+Chicago Booth,2025,West (US),19.6,Graduate
+Chicago Booth,2025,International,5.1,Graduate
+Chicago Booth,2024,United States,94.1,Graduate
+Chicago Booth,2024,Northeast (US),29.9,Graduate
+Chicago Booth,2024,Midwest (US),29.9,Graduate
+Chicago Booth,2024,West (US),20.8,Graduate
+Chicago Booth,2024,International,5.9,Graduate
+Chicago Booth,2021,United States,92.2,Graduate
+Chicago Booth,2021,Midwest (US),29.6,Graduate
+Chicago Booth,2021,West (US),26.8,Graduate
+Chicago Booth,2021,Northeast (US),21.8,Graduate
+Chicago Booth,2021,International,7.8,Graduate
+Stanford,2025,United States,96.0,Graduate
+Stanford,2025,West (US),55.0,Graduate
+Stanford,2025,Northeast (US),28.0,Graduate
+Stanford,2025,Southwest (US),6.0,Graduate
+Stanford,2025,International,4.0,Graduate
+Stanford,2023,United States,93.0,Graduate
+Stanford,2023,West (US),50.0,Graduate
+Stanford,2023,Northeast (US),31.0,Graduate
+Stanford,2023,International,7.0,Graduate
+Stanford,2022,United States,96.0,Graduate
+Stanford,2022,West (US),58.0,Graduate
+Stanford,2022,Northeast (US),26.0,Graduate
+Stanford,2022,International,4.0,Graduate
+Stanford,2021,United States,93.0,Graduate
+Stanford,2021,West (US),56.0,Graduate
+Stanford,2021,Northeast (US),22.0,Graduate
+Stanford,2021,International,7.0,Graduate
+Kellogg,2025,Midwest (US),39.0,Graduate
+Kellogg,2025,West (US),25.0,Graduate
+Kellogg,2025,Northeast (US),23.0,Graduate
+Kellogg,2025,International,6.0,Graduate
+Kellogg,2024,United States,93.58,Graduate
+Kellogg,2024,Midwest (US),36.39,Graduate
+Kellogg,2024,West (US),26.30,Graduate
+Kellogg,2024,Northeast (US),18.04,Graduate
+Kellogg,2024,International,6.42,Graduate
+Kellogg,2023,United States,94.10,Graduate
+Kellogg,2023,Midwest (US),32.02,Graduate
+Kellogg,2023,Northeast (US),24.44,Graduate
+Kellogg,2023,West (US),22.75,Graduate
+Kellogg,2023,International,5.90,Graduate
+Kellogg,2022,United States,95.23,Graduate
+Kellogg,2022,Midwest (US),31.82,Graduate
+Kellogg,2022,West (US),30.45,Graduate
+Kellogg,2022,Northeast (US),17.95,Graduate
+Kellogg,2022,International,4.77,Graduate
+Kellogg,2021,United States,91.1,Graduate
+Kellogg,2021,West (US),29.9,Graduate
+Kellogg,2021,Midwest (US),28.3,Graduate
+Kellogg,2021,Northeast (US),15.0,Graduate
+Kellogg,2021,International,8.9,Graduate
+MIT Sloan,2024,United States,93.2,Graduate
+MIT Sloan,2024,Northeast (US),47.5,Graduate
+MIT Sloan,2024,West (US),19.0,Graduate
+MIT Sloan,2024,South (US),10.0,Graduate
+MIT Sloan,2024,International,6.8,Graduate
+MIT Sloan,2023,United States,92.1,Graduate
+MIT Sloan,2023,Northeast (US),44.7,Graduate
+MIT Sloan,2023,West (US),23.7,Graduate
+MIT Sloan,2023,International,7.9,Graduate
+NYU Stern,2025,United States,96.0,Graduate
+NYU Stern,2025,Northeast (US),82.4,Graduate
+NYU Stern,2025,West (US),7.0,Graduate
+NYU Stern,2025,International,4.0,Graduate
+NYU Stern,2024,Northeast (US),79.2,Graduate
+NYU Stern,2024,West (US),9.6,Graduate
+NYU Stern,2024,International,4.3,Graduate
+NYU Stern,2026,United States,95.7,Internship
+NYU Stern,2026,Northeast (US),79.2,Internship
+NYU Stern,2026,West (US),9.6,Internship
+NYU Stern,2026,Mid-Atlantic (US),2.2,Internship
+NYU Stern,2026,South (US),2.5,Internship
+NYU Stern,2026,Southwest (US),1.2,Internship
+NYU Stern,2026,Midwest (US),0.9,Internship
+NYU Stern,2026,Asia & Middle East,2.8,Internship
+NYU Stern,2026,Latin America and the Caribbean,1.2,Internship
+NYU Stern,2026,Europe,0.3,Internship
+NYU Stern,2026,International,4.3,Internship

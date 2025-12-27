@@ -1,0 +1,105 @@
+School,Year,Category,Function,Pct_Employed,Base_Salary_High,Base_Salary_Median,Base_Salary_Low,Bonus_High,Bonus_Median,Bonus_Low,Pct_With_Bonus
+Columbia,2024,Consulting,Consulting,32.3,225000,190000,,110000,30000,,87
+Columbia,2024,Consulting,Internal Consulting/Strategic Planning,6.9,200000,155000,,60000,20000,,41
+Columbia,2024,Finance,Corporate Finance,2.5,165000,134500,,55000,33300,,100
+Columbia,2024,Finance,Investment Banking,20.6,225000,175000,,140000,50000,,94
+Columbia,2024,Finance,Investment Management,5.1,225000,158550,,175000,53750,,60
+Columbia,2024,Finance,Private Equity,5.3,350000,170000,,225000,34178,,60
+Columbia,2024,Finance,Venture Capital,1.0,,142500,,,,,
+Columbia,2024,Finance,Other,2.3,175000,160000,,135000,50000,,56
+Columbia,2024,Management,General Management/Leadership Development Program,4.3,240000,140000,,50000,30000,,71
+Columbia,2024,Management,Operations/Production,2.5,230000,155000,,60000,18750,,60
+Columbia,2024,Marketing,Brand/Product Management,3.1,293000,170000,,110200,40000,,64
+Columbia,2024,Marketing,Business Development,4.1,185000,120000,,110000,20000,,56
+Columbia,2024,Marketing,Product Marketing,4.8,195000,135000,,151000,30000,,68
+Columbia,2024,Marketing,Other,0.5,,,,,,,
+Columbia,2024,Real Estate,Asset Management/Investments,1.8,200000,152500,,75000,15000,,71
+Columbia,2024,Real Estate,Development,0.3,,,,,,,
+Columbia,2024,Other Functions,Law,1.0,,225000,,,,,
+Columbia,2024,Other Functions,Other,1.5,180000,153500,,,,30000,50
+Columbia,2023,Consulting,Consulting,36.0,261000,190000,60000,132000,30000,5000,82.1
+Columbia,2023,Consulting,Internal Consulting/Strategic Planning,5.5,210000,150000,110000,50000,25000,5000,69.6
+Columbia,2023,Finance,Corporate Finance,1.8,309000,142800,100000,171200,52000,12000,44.4
+Columbia,2023,Finance,Investment Banking,16.6,225000,175000,30000,140000,50000,20000,86.2
+Columbia,2023,Finance,Investment Management,6.9,350000,165000,125000,225000,65000,25000,59.4
+Columbia,2023,Finance,Private Equity,4.7,288000,184140,81000,715000,82000,2480,52.0
+Columbia,2023,Finance,Venture Capital,2.3,190000,170000,110000,87500,65000,30000,36.4
+Columbia,2023,Finance,Other,2.5,180000,150000,120000,225000,55000,15000,50.0
+Columbia,2023,Management,General Management/Leadership Development Program,3.8,198000,125000,60000,60000,30500,12000,44.4
+Columbia,2023,Management,Operations/Production,3.0,175836,150000,65000,100000,25000,10000,53.8
+Columbia,2023,Marketing,Brand/Product Management,6.4,200000,150000,75447,385361,44325,5000,86.2
+Columbia,2023,Marketing,Business Development,3.5,185000,151000,50000,125000,35000,5000,55.0
+Columbia,2023,Marketing,Product Marketing,0.3,,,,,,,
+Columbia,2023,Marketing,Other,0.8,,,,,,,
+Columbia,2023,Real Estate,Asset Management/Investments,2.5,175000,145000,102375,110000,20000,10000,57.1
+Columbia,2023,Real Estate,Development,1.2,250000,150000,72000,,,,
+Columbia,2023,Other Functions,Law,0.7,,227500,,,23500,,50.0
+Columbia,2023,Other Functions,Other,1.5,250000,128000,74400,55000,36750,30000,71.4
+Columbia,2022,Consulting,Consulting,33.2,215000,175000,65000,102375,30000,9396,91.5
+Columbia,2022,Consulting,Internal Consulting/Strategic Planning,5.3,225000,142000,120000,126995,27500,10000,72.0
+Columbia,2022,Finance,Corporate Finance,3.3,168000,130000,60900,75300,40000,20000,70.6
+Columbia,2022,Finance,Investment Banking,16.4,210000,175000,118272,175000,50000,10000,95.5
+Columbia,2022,Finance,Investment Management,8.1,300000,165000,115000,200000,67500,10000,74.3
+Columbia,2022,Finance,Private Equity,5.3,400000,160000,82500,335000,25000,10000,46.4
+Columbia,2022,Finance,Venture Capital,3.2,250000,180000,80000,75000,40000,3395,53.8
+Columbia,2022,Finance,Other,0.4,,,,,,,
+Columbia,2022,Management,General Management/Leadership Development Program,2.8,300000,131000,60000,120000,30000,10000,66.7
+Columbia,2022,Management,Operations/Production,3.2,164000,126992,52700,92800,30750,5000,71.4
+Columbia,2022,Marketing,Brand/Product Management,7.0,185000,134000,71340,140000,40750,10000,84.2
+Columbia,2022,Marketing,Business Development,4.5,210000,155000,120000,50000,30000,6250,69.2
+Columbia,2022,Marketing,Product Marketing,2.1,200000,147800,71100,30000,23700,10000,62.5
+Columbia,2022,Marketing,Other,0.6,,115000,,,35593,,100.0
+Columbia,2022,Real Estate,Asset Management/Investments,1.0,150000,146250,100000,140000,35000,10000,83.3
+Columbia,2022,Real Estate,Development,1.0,150000,150000,135000,70000,11250,5000,80.0
+Columbia,2022,Real Estate,Other,0.3,,,,,,,
+Columbia,2022,Other Functions,Law,0.8,,215000,,,15000,,40.0
+Columbia,2022,Other Functions,Other,1.5,225000,68873,54816,25000,14000,3000,33.3
+Columbia,2021,Consulting,Management Consulting,32.8,205000,165000,78000,100000,30000,10000,76.5
+Columbia,2021,Consulting,Internal Consulting/Strategic Planning,3.3,169000,137500,80000,57500,25000,3000,91.7
+Columbia,2021,Finance,Business/Corporate Development,2.3,235000,147500,134000,125000,48400,25000,37.5
+Columbia,2021,Finance,Corporate Finance,1.0,190000,124000,120000,40000,40000,35000,60.0
+Columbia,2021,Finance,Investment Banking/M&A,16.2,300000,150000,100000,125000,57500,10000,80.6
+Columbia,2021,Finance,Sell Side Research,1.4,150000,145000,125000,50000,40000,25000,60.0
+Columbia,2021,Finance,Investment Management,7.8,250000,140000,95000,187500,75000,10000,79.3
+Columbia,2021,Finance,Private Equity/LBOs,4.5,200000,150000,100000,130000,50000,15000,43.8
+Columbia,2021,Finance,Venture Capital,2.5,185000,150000,110000,15000,12500,10000,28.6
+Columbia,2021,Management,Leadership Development/Rotational Program,5.3,140400,126000,102000,80000,33350,15000,91.7
+Columbia,2021,Management,General Management,2.5,150000,116000,95400,37000,20750,4500,33.3
+Columbia,2021,Management,Operations/Production,3.5,145000,135000,126000,135000,60000,3000,80.0
+Columbia,2021,Management,Other,1.8,156000,144500,95000,90000,48400,10000,83.3
+Columbia,2021,Marketing,Brand/Product Management,6.8,162900,130000,90000,105000,30000,10000,82.8
+Columbia,2021,Marketing,Business Development/Product Development,0.1,,145500,,,,,
+Columbia,2021,Marketing,Other,0.1,,130000,,,18000,,33.3
+Columbia,2021,Real Estate,Development/Construction,1.4,142500,135000,100000,20000,17500,15000,40.0
+Columbia,2021,Real Estate,Finance,1.6,150000,142500,130000,,,,25.0
+Columbia,2021,Real Estate,Other,0.1,,120000,,,70000,,50.0
+Columbia,2021,Other Functions,Other,2.8,190000,138000,75000,80000,15000,9500,55.6
+NYU Stern,2025,Consulting,Consulting,39.4,205000,175000,55864,35000,29349,5000,76.0
+NYU Stern,2025,Consulting,Management,28.6,205000,188000,55864,35000,30000,5000,76.0
+NYU Stern,2025,Consulting,Strategy,7.8,192000,150000,100000,30000,24722,5000,76.0
+NYU Stern,2025,Consulting,Healthcare,0.4,,,,,,
+NYU Stern,2025,Consulting,Business Development/Sales,2.2,135000,128000,126000,45000,36667,15000,100.0
+NYU Stern,2025,Consulting,Technology,0.4,,,,,,
+NYU Stern,2025,Finance/Accounting,Finance/Accounting,34.2,240000,175000,100000,125000,56836,10000,90.0
+NYU Stern,2025,Finance/Accounting,Investment Banking,24.2,225000,175000,133823,125000,57118,20000,95.0
+NYU Stern,2025,Finance/Accounting,Asset/Investment Management,1.7,150000,150000,100000,50000,40000,25000,60.0
+NYU Stern,2025,Finance/Accounting,General/Corporate,3.9,183400,145000,120000,75000,42083,15000,85.0
+NYU Stern,2025,Finance/Accounting,Private Equity,1.7,200000,175000,150000,85000,60000,35000,50.0
+NYU Stern,2025,Finance/Accounting,Venture Capital,0.9,,,,,,
+NYU Stern,2025,Finance/Accounting,Private Wealth Management,0.4,,,,,,
+NYU Stern,2025,Finance/Accounting,Research - Equity Buy Side,0.4,,,,,,
+NYU Stern,2025,Finance/Accounting,Risk Management,0.4,,,,,,
+NYU Stern,2025,Finance/Accounting,Structured/Project Finance,0.4,,,,,,
+NYU Stern,2025,Management,Management,5.6,400000,145000,125000,75000,47067,20000,73.0
+NYU Stern,2025,Management,General Management,4.8,400000,145000,125000,75000,49480,20000,75.0
+NYU Stern,2025,Management,Project Management,0.9,,,,,,
+NYU Stern,2025,Marketing/Sales,Marketing/Sales,14.3,220000,144000,82009,151000,32450,5000,70.0
+NYU Stern,2025,Marketing/Sales,Brand Management,4.3,135225,122500,115000,110200,37143,10000,85.0
+NYU Stern,2025,Marketing/Sales,Product Management,6.5,220000,150000,82009,75000,23222,5000,60.0
+NYU Stern,2025,Marketing/Sales,General,1.7,200000,137000,137000,50000,30000,15000,50.0
+NYU Stern,2025,Marketing/Sales,Product Marketing,1.3,180000,155000,140000,60000,40000,25000,75.0
+NYU Stern,2025,Marketing/Sales,Market Research,0.4,,,,,,
+NYU Stern,2025,Operations,Operations,1.7,180000,150000,125000,55000,35000,20000,60.0
+NYU Stern,2025,Other Functions,Law,3.9,235000,235000,225000,25000,23500,20000,40.0
+NYU Stern,2025,Other Functions,Human Resources,0.4,,,,,,
+NYU Stern,2025,Other Functions,Other,0.4,,,,,,

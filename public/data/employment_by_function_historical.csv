@@ -1,0 +1,337 @@
+School,Year,Function,Percentage
+Columbia,2021,Consulting,36.1
+Columbia,2021,Management Consulting,32.8
+Columbia,2021,Internal Consulting/Strategic Planning,3.3
+Columbia,2021,Business/Corporate Development,2.3
+Columbia,2021,Corporate Finance,1.0
+Columbia,2021,Investment Banking/M&A,16.2
+Columbia,2021,Sell Side Research,1.4
+Columbia,2021,Investment Management,7.8
+Columbia,2021,Private Equity/LBO's,4.5
+Columbia,2021,Venture Capital,2.5
+Columbia,2021,Management,13.1
+Columbia,2021,Leadership Development/Rotational Program,5.3
+Columbia,2021,General Management,2.5
+Columbia,2021,Operations/Production,3.5
+Columbia,2021,Marketing,8.2
+Columbia,2021,Brand/Product Management,6.8
+Columbia,2021,Real Estate,3.5
+Columbia,2021,Development/Construction,1.4
+Columbia,2022,Consulting,38.5
+Columbia,2022,Consulting (Management),33.2
+Columbia,2022,Internal Consulting/Strategic Planning,5.3
+Columbia,2022,Finance,36.7
+Columbia,2022,Corporate Finance,3.3
+Columbia,2022,Investment Banking,16.4
+Columbia,2022,Investment Management,8.1
+Columbia,2022,Private Equity,5.3
+Columbia,2022,Venture Capital,3.2
+Columbia,2022,Management,6.0
+Columbia,2022,General Management/Leadership Development Program,2.8
+Columbia,2022,Operations/Production,3.2
+Columbia,2022,Marketing,14.2
+Columbia,2022,Brand/Product Management,7.0
+Columbia,2022,Business Development,4.5
+Columbia,2022,Product Marketing,2.1
+Columbia,2022,Real Estate,2.3
+Columbia,2022,Asset Management/Investments,1.0
+Columbia,2022,Development,1.0
+Columbia,2022,Law,0.8
+Columbia,2023,Consulting,41.5
+Columbia,2023,Consulting (Management),36.0
+Columbia,2023,Internal Consulting/Strategic Planning,5.5
+Columbia,2023,Finance,34.8
+Columbia,2023,Corporate Finance,1.8
+Columbia,2023,Investment Banking,16.6
+Columbia,2023,Investment Management,6.9
+Columbia,2023,Private Equity,4.7
+Columbia,2023,Venture Capital,2.3
+Columbia,2023,Management,6.8
+Columbia,2023,Brand/Product Management,6.4
+Columbia,2023,Business Development,3.5
+Columbia,2023,Operations/Production,3.0
+Columbia,2023,General Management/Leadership Development Program,3.8
+Columbia,2023,Asset Management/Investments,2.5
+Columbia,2023,Development,1.2
+Columbia,2023,Product Marketing,0.3
+Columbia,2023,Law,0.7
+Columbia,2024,Consulting,39.2
+Columbia,2024,Internal Consulting/Strategic Planning,6.9
+Columbia,2024,Finance,36.9
+Columbia,2024,Corporate Finance,2.5
+Columbia,2024,Investment Banking,20.6
+Columbia,2024,Investment Management,5.1
+Columbia,2024,Private Equity,5.3
+Columbia,2024,Venture Capital,1.0
+Columbia,2024,Management,6.9
+Columbia,2024,General Management/Leadership Development Program,4.3
+Columbia,2024,Operations/Production,2.5
+Columbia,2024,Marketing,12.5
+Columbia,2024,Brand/Product Management,3.1
+Columbia,2024,Business Development,4.1
+Columbia,2024,Product Marketing,4.8
+Columbia,2024,Real Estate,2.0
+Columbia,2024,Asset Management/Investments,1.8
+Columbia,2024,Development,0.3
+Columbia,2024,Law,1.0
+MIT Sloan,2014,Investment Banking,6.8
+MIT Sloan,2014,Private Equity,1.0
+MIT Sloan,2015,General Management,78.3
+MIT Sloan,2015,Consulting,32.1
+MIT Sloan,2015,Finance,15.5
+MIT Sloan,2015,Marketing,9.6
+MIT Sloan,2015,Business Development,7.5
+MIT Sloan,2015,Investment Banking,6.1
+MIT Sloan,2015,Technology,4.1
+MIT Sloan,2015,Investment Management,2.4
+MIT Sloan,2015,Private Equity,1.0
+MIT Sloan,2015,Venture Capital,0.3
+MIT Sloan,2016,Private Equity,1.0
+MIT Sloan,2017,Private Equity,1.0
+MIT Sloan,2018,Consulting,39.7
+MIT Sloan,2018,Finance,16.7
+MIT Sloan,2018,Marketing,16.7
+MIT Sloan,2018,Technology,10.0
+MIT Sloan,2018,Investment Banking,6.7
+MIT Sloan,2018,General Management,5.3
+MIT Sloan,2018,Investment Management,3.5
+MIT Sloan,2018,Business Development,2.8
+MIT Sloan,2018,Private Equity,2.5
+MIT Sloan,2018,Venture Capital,1.8
+MIT Sloan,2019,Consulting,28.3
+MIT Sloan,2019,Finance,21.4
+MIT Sloan,2019,Marketing,13.2
+MIT Sloan,2019,Technology,9.8
+MIT Sloan,2019,General Management,8.8
+MIT Sloan,2019,Investment Banking,6.5
+MIT Sloan,2019,Business Development,4.8
+MIT Sloan,2019,Investment Management,4.3
+MIT Sloan,2019,Private Equity,3.6
+MIT Sloan,2019,Venture Capital,3.6
+MIT Sloan,2020,Consulting/Strategic Planning,39.7
+MIT Sloan,2020,Finance,16.7
+MIT Sloan,2020,Product Management/Development,16.7
+MIT Sloan,2020,Operations/Project Management,12.4
+MIT Sloan,2020,Investment Banking,6.7
+MIT Sloan,2020,Leadership Program/General Management,5.3
+MIT Sloan,2020,Marketing,3.9
+MIT Sloan,2020,Investment Management,3.5
+MIT Sloan,2020,Business Development,2.8
+MIT Sloan,2020,Private Equity,2.5
+MIT Sloan,2020,Business Analytics,1.8
+MIT Sloan,2020,Venture Capital,1.8
+MIT Sloan,2021,Consulting/Strategic Planning,34.8
+MIT Sloan,2021,Finance,21.1
+MIT Sloan,2021,Product Management/Development,17.3
+MIT Sloan,2021,Operations/Project Management,12.4
+MIT Sloan,2021,Investment Banking,9.0
+MIT Sloan,2021,Marketing,4.9
+MIT Sloan,2021,Private Equity,4.7
+MIT Sloan,2021,Leadership Program/General Management,4.2
+MIT Sloan,2021,Investment Management,3.1
+MIT Sloan,2021,Business Development,2.6
+MIT Sloan,2021,Venture Capital,2.2
+MIT Sloan,2021,Business Analytics,1.9
+MIT Sloan,2022,Consulting,31.2
+MIT Sloan,2022,Finance,22.6
+MIT Sloan,2022,Technology,22.6
+MIT Sloan,2022,Investment Banking,6.5
+MIT Sloan,2022,General Management,5.3
+MIT Sloan,2022,Business Development,5.0
+MIT Sloan,2022,Venture Capital,4.4
+MIT Sloan,2022,Private Equity,4.2
+MIT Sloan,2022,Investment Management,3.6
+MIT Sloan,2022,Marketing,2.4
+MIT Sloan,2023,Consulting,33.7
+MIT Sloan,2023,Private Equity,24.5
+MIT Sloan,2023,Finance,24.1
+MIT Sloan,2023,Technology,20.1
+MIT Sloan,2023,Business Development,7.2
+MIT Sloan,2023,General Management,6.5
+MIT Sloan,2023,Investment Banking,6.2
+MIT Sloan,2023,Investment Management,3.8
+MIT Sloan,2023,Venture Capital,3.8
+MIT Sloan,2023,Marketing,1.4
+MIT Sloan,2024,General Management,64.3
+MIT Sloan,2024,Consulting,32.1
+MIT Sloan,2024,Finance,29.5
+MIT Sloan,2024,Technology,25.3
+MIT Sloan,2024,Private Equity,13.6
+MIT Sloan,2024,Investment Banking,5.9
+MIT Sloan,2024,Investment Management,5.4
+MIT Sloan,2024,Business Development,5.4
+MIT Sloan,2024,Venture Capital,4.5
+MIT Sloan,2024,Marketing,2.7
+Stanford,2021,Private Equity,45.0
+Stanford,2021,Finance,33.0
+Stanford,2021,Technology,29.0
+Stanford,2021,General Management,26.0
+Stanford,2021,Consulting,18.0
+Stanford,2021,Marketing,18.0
+Stanford,2021,Venture Capital,11.0
+Stanford,2021,Product Management,9.0
+Stanford,2021,Investment Management,4.0
+Stanford,2021,Business Development,4.0
+Stanford,2021,Real Estate,2.0
+Stanford,2021,Operations,1.0
+Stanford,2022,Technology,30.0
+Stanford,2022,Finance,26.0
+Stanford,2022,General Management,23.0
+Stanford,2022,Marketing,22.0
+Stanford,2022,Venture Capital,12.0
+Stanford,2022,Product Management,12.0
+Stanford,2022,Consulting,10.0
+Stanford,2022,Private Equity,6.0
+Stanford,2022,Business Development,6.0
+Stanford,2022,Investment Management,5.0
+Stanford,2022,Investment Banking,1.0
+Stanford,2022,Real Estate,1.0
+Stanford,2022,Operations,1.0
+Stanford,2023,Finance,38.0
+Stanford,2023,General Management,29.0
+Stanford,2023,Technology,24.0
+Stanford,2023,Marketing,16.0
+Stanford,2023,Consulting,15.0
+Stanford,2023,Venture Capital,13.0
+Stanford,2023,Private Equity,7.0
+Stanford,2023,Business Development,5.0
+Stanford,2023,Investment Management,2.0
+Stanford,2023,Real Estate,2.0
+Stanford,2023,Investment Banking,1.0
+Stanford,2023,Operations,1.0
+Stanford,2024,Operations,49.0
+Stanford,2024,Finance,37.0
+Stanford,2024,General Management,32.0
+Stanford,2024,Technology,22.0
+Stanford,2024,Marketing,17.0
+Stanford,2024,Consulting,14.0
+Stanford,2024,Private Equity,12.0
+Stanford,2024,Venture Capital,7.0
+Stanford,2024,Investment Management,6.0
+Stanford,2024,Business Development,5.0
+Stanford,2024,Investment Banking,5.0
+Stanford,2024,Real Estate,2.0
+Stanford,2025,Technology,35.0
+Stanford,2025,Finance,33.0
+Stanford,2025,General Management,32.0
+Stanford,2025,Marketing,20.0
+Stanford,2025,Private Equity,13.0
+Stanford,2025,Consulting,11.0
+Stanford,2025,Venture Capital,6.0
+Stanford,2025,Investment Management,6.0
+Stanford,2025,Business Development,3.0
+Stanford,2025,Real Estate,1.0
+Stanford,2025,Investment Banking,1.0
+Kellogg,2020,Consulting,40.0
+Kellogg,2020,Finance/Accounting,15.0
+Kellogg,2020,Marketing/Sales,11.0
+Kellogg,2020,General Management,10.0
+Kellogg,2020,Technology,10.0
+Kellogg,2020,Corporate Strategy/Strategic Planning,7.0
+Kellogg,2020,Operations/Logistics,2.0
+Kellogg,2020,Business Development,2.0
+Kellogg,2020,Other,2.0
+Kellogg,2020,Human Resources,1.0
+Chicago Booth,2021,Consulting,35.9
+Chicago Booth,2021,Finance,30.3
+Chicago Booth,2021,Investment Banking,11.1
+Chicago Booth,2021,Product Management (Tech),7.4
+Chicago Booth,2021,Marketing,6.8
+Chicago Booth,2021,Corporate Strategy/Strategic Planning,6.5
+Chicago Booth,2021,Private Equity,6.3
+Chicago Booth,2021,Company Finance (Analysis/Treasury),5.0
+Chicago Booth,2021,General Management,4.6
+Chicago Booth,2021,Investment Management/Research,4.4
+Chicago Booth,2021,Business Development,2.8
+Chicago Booth,2021,Operations - Production/Supply Chain Mgmt/Logistics,2.4
+Chicago Booth,2021,Venture Capital,2.2
+Chicago Booth,2021,Project Management,1.5
+Chicago Booth,2021,Real Estate,1.1
+Chicago Booth,2022,Finance,36.2
+Chicago Booth,2022,Consulting,36.8
+Chicago Booth,2022,Investment Banking,15.4
+Chicago Booth,2022,Private Equity,8.4
+Chicago Booth,2022,Product Management (Tech),7.8
+Chicago Booth,2022,General Management,5.8
+Chicago Booth,2022,Venture Capital,4.8
+Chicago Booth,2022,Investment Management/Research,4.1
+Chicago Booth,2022,Marketing,4.1
+Chicago Booth,2022,Brand/Product Management,3.7
+Chicago Booth,2022,Corporate Strategy/Strategic Planning,3.7
+Chicago Booth,2022,Law,2.0
+Chicago Booth,2022,Company Finance (Analysis/Treasury),1.9
+Chicago Booth,2022,Business Development,1.9
+Chicago Booth,2022,Real Estate,0.9
+Chicago Booth,2022,Operations - Production/Supply Chain Mgmt/Logistics,0.7
+Chicago Booth,2022,Analytics/Data Science,0.7
+Chicago Booth,2023,Consulting,39.4
+Chicago Booth,2023,Finance,33.2
+Chicago Booth,2023,Investment Banking,15.5
+Chicago Booth,2023,Product Management (Tech),8.7
+Chicago Booth,2023,Private Equity,7.8
+Chicago Booth,2023,General Management,5.2
+Chicago Booth,2023,Corporate Strategy/Strategic Planning,4.4
+Chicago Booth,2023,Marketing,3.6
+Chicago Booth,2023,Venture Capital,3.4
+Chicago Booth,2023,Company Finance (Analysis/Treasury),2.4
+Chicago Booth,2023,Investment Management/Research,2.2
+Chicago Booth,2023,Law,1.6
+Chicago Booth,2023,Operations - Production/Supply Chain Mgmt/Logistics,1.6
+Chicago Booth,2023,Business Development,1.4
+Chicago Booth,2023,Project Management,1.0
+Chicago Booth,2023,Real Estate,0.8
+Chicago Booth,2023,Analytics/Data Science,0.8
+Harvard,2021,Finance,33.0
+Harvard,2021,Consulting,25.0
+Harvard,2021,General Management,11.0
+Harvard,2021,Marketing,11.0
+Harvard,2021,Strategic Planning,10.0
+Harvard,2021,Business Development,6.0
+Harvard,2022,Finance,33.0
+Harvard,2022,Consulting,26.0
+Harvard,2022,Marketing,12.0
+Harvard,2022,General Management,10.0
+Harvard,2022,Strategic Planning,8.0
+Harvard,2022,Business Development,7.0
+Harvard,2023,Finance,33.0
+Harvard,2023,Consulting,26.0
+Harvard,2023,General Management,16.0
+Harvard,2023,Marketing,10.0
+Harvard,2023,Strategic Planning,7.0
+Harvard,2023,Business Development,6.0
+NYU Stern,2023,Consulting,48.5
+NYU Stern,2023,Finance/Accounting,31.4
+NYU Stern,2023,Marketing/Sales,10.2
+NYU Stern,2023,Management,4.8
+NYU Stern,2023,Operations,1.7
+NYU Stern,2023,Business Development/Sales,2.0
+NYU Stern,2023,Healthcare,0.0
+NYU Stern,2023,Strategy,6.1
+NYU Stern,2023,Technology,2.7
+NYU Stern,2023,General Management,2.7
+NYU Stern,2023,Brand Management,1.7
+NYU Stern,2023,Product Management,6.5
+NYU Stern,2023,Investment Banking,19.5
+NYU Stern,2023,Private Equity,1.7
+NYU Stern,2023,Venture Capital,2.0
+NYU Stern,2023,Asset/Investment Management,0.7
+NYU Stern,2023,General/Corporate,3.8
+NYU Stern,2023,Law,2.4
+NYU Stern,2024,Consulting,42.4
+NYU Stern,2024,Finance/Accounting,37.1
+NYU Stern,2024,Marketing/Sales,10.0
+NYU Stern,2024,Management,6.1
+NYU Stern,2024,Operations,1.3
+NYU Stern,2024,Business Development/Sales,1.3
+NYU Stern,2024,Strategy,5.7
+NYU Stern,2024,Technology,2.2
+NYU Stern,2024,General Management,5.2
+NYU Stern,2024,Brand Management,4.4
+NYU Stern,2024,Product Management,3.9
+NYU Stern,2024,Investment Banking,21.4
+NYU Stern,2024,Private Equity,2.2
+NYU Stern,2024,Venture Capital,1.3
+NYU Stern,2024,Asset/Investment Management,3.1
+NYU Stern,2024,General/Corporate,7.0
+NYU Stern,2024,Law,2.2
+

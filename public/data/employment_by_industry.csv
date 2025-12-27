@@ -1,0 +1,412 @@
+School,Year,Industry,Percentage
+Stanford,2023,Technology,49.0
+Stanford,2025,Technology,42.0
+Kellogg,2023,Consulting,41.91
+Kellogg,2022,Consulting,40.04
+NYU Stern,2025,Consulting,39.4
+MIT Sloan,2013,Consulting,38.9
+Chicago Booth,2023,Consulting,38.6
+NYU Stern,2025,Financial Services,38.1
+NYU Stern,2025,Consulting,32.8
+NYU Stern,2025,Investment Banking,28.0
+NYU Stern,2025,Technology/Telecommunications,14.2
+NYU Stern,2025,Law,3.4
+NYU Stern,2025,Consumer Packaged Goods,3.4
+NYU Stern,2025,Healthcare/Pharmaceuticals/Biotech,3.4
+NYU Stern,2025,Entertainment/Media/Sports,2.2
+NYU Stern,2025,Venture Capital,1.7
+NYU Stern,2025,Diversified Financial Services,1.7
+NYU Stern,2025,Asset Management,1.3
+NYU Stern,2025,Commercial Banking,1.3
+NYU Stern,2025,Private Equity,1.3
+NYU Stern,2025,Transportation & Logistics,1.3
+NYU Stern,2025,Real Estate,0.9
+NYU Stern,2025,Retail,0.9
+NYU Stern,2025,Insurance,0.9
+NYU Stern,2025,Government,0.4
+NYU Stern,2025,Manufacturing,0.4
+Stanford,2023,Financial Services,38.0
+Kellogg,2024,Consulting,38.0
+MIT Sloan,2014,Consulting,37.4
+Kellogg,2021,Consulting,37.0
+Stanford,2024,Financial Services,37.0
+Columbia,2022,Financial Services,36.9
+Columbia,2021,Consulting,36.1
+Columbia,2024,Financial Services,35.9
+Chicago Booth,2022,Consulting,35.5
+MIT Sloan,2012,Consulting,35.4
+Chicago Booth,2022,Financial Services,35.1
+Chicago Booth,2021,Consulting,34.4
+Stanford,2025,Financial Services,34.0
+Chicago Booth,2024,Consulting,33.8
+MIT Sloan,2023,Consulting,33.7
+Columbia,2022,Consulting,33.6
+Columbia,2021,Financial Services,33.0
+Chicago Booth,2024,Financial Services,32.9
+Chicago Booth,2023,Financial Services,32.6
+MIT Sloan,2024,Consulting,32.1
+MIT Sloan,2022,Consulting,31.2
+MIT Sloan,2020,Consulting,31.1
+Columbia,2024,Consulting,30.6
+Stanford,2022,Technology,30.0
+MIT Sloan,2024,Financial Services,29.5
+MIT Sloan,2022,Financial Services,29.2
+MIT Sloan,2019,Consulting,28.3
+Stanford,2024,Technology,28.0
+Chicago Booth,2021,Financial Services,27.0
+MIT Sloan,2022,Technology,26.5
+Kellogg,2021,Technology,26.2
+MIT Sloan,2019,Financial Services,26.2
+Stanford,2022,Financial Services,26.0
+MIT Sloan,2014,Manufacturing,24.4
+MIT Sloan,2014,Financial Services,24.3
+MIT Sloan,2012,Financial Services,24.3
+MIT Sloan,2023,Technology,24.1
+MIT Sloan,2019,Manufacturing,23.9
+MIT Sloan,2025,Consulting,23.4
+MIT Sloan,2013,Manufacturing,23.3
+Kellogg,2023,Financial Services,23.0
+Chicago Booth,2021,Technology,22.9
+MIT Sloan,2021,Manufacturing,22.9
+Kellogg,2022,Technology,21.0
+Kellogg,2024,Technology,20.44
+MIT Sloan,2024,Technology,20.1
+Stanford,2024,Private Equity,20.0
+MIT Sloan,2023,Financial Services,19.9
+MIT Sloan,2013,Technology,19.8
+Kellogg,2022,Financial Services,19.0
+Kellogg,2021,Financial Services,19.0
+Kellogg,2024,Financial Services,18.51
+MIT Sloan,2020,Financial,18.5
+MIT Sloan,2013,Financial Services,18.3
+MIT Sloan,2012,Manufacturing,18.1
+NYU Stern,2025,Technology,18.1
+Stanford,2023,Private Equity,18.0
+Stanford,2023,Consumer/Retail,17.0
+MIT Sloan,2021,Consulting,16.9
+MIT Sloan,2012,Technology,16.8
+MIT Sloan,2014,Technology,16.8
+Kellogg,2023,Technology,16.71
+Stanford,2024,Healthcare/Pharma,16.0
+Stanford,2022,Consumer/Retail,16.0
+Stanford,2025,Private Equity,16.0
+Columbia,2022,Technology,16.0
+Chicago Booth,2023,Technology,15.5
+Stanford,2022,Venture Capital,15.0
+Stanford,2024,Venture Capital,15.0
+Stanford,2023,Venture Capital,15.0
+Stanford,2023,Consulting,15.0
+Chicago Booth,2022,Technology,14.9
+Chicago Booth,2024,Technology,14.8
+Stanford,2022,Private Equity,14.0
+Stanford,2024,Consulting,14.0
+Stanford,2025,Venture Capital,14.0
+Stanford,2023,Healthcare/Pharma,12.0
+Stanford,2024,Consumer/Retail,12.0
+Stanford,2025,Consulting,11.0
+MIT Sloan,2022,Venture Capital,10.8
+MIT Sloan,2012,Consumer/Retail,10.2
+MIT Sloan,2014,Consumer/Retail,10.2
+Stanford,2025,Healthcare/Pharma,10.0
+Columbia,2024,Technology,10.0
+Stanford,2025,Consumer/Retail,10.0
+Stanford,2022,Consulting,10.0
+MIT Sloan,2013,Consumer/Retail,10.0
+MIT Sloan,2021,Technology,10.0
+Kellogg,2023,Private Equity,9.81
+MIT Sloan,2019,Technology,9.8
+MIT Sloan,2024,Venture Capital,9.7
+Kellogg,2024,Healthcare/Pharma,9.12
+Chicago Booth,2023,Private Equity,9.1
+MIT Sloan,2021,Venture Capital,8.5
+MIT Sloan,2019,Venture Capital,8.3
+Stanford,2022,Healthcare/Pharma,8.0
+Chicago Booth,2022,Private Equity,7.1
+Chicago Booth,2021,Private Equity,6.8
+Chicago Booth,2024,Private Equity,6.4
+Kellogg,2021,Healthcare/Pharma,6.3
+MIT Sloan,2020,Technology,5.6
+MIT Sloan,2021,Consumer/Retail,5.6
+Columbia,2024,Consumer/Retail,5.2
+Columbia,2024,Private Equity,5.2
+Kellogg,2021,Private Equity,5.2
+Chicago Booth,2022,Venture Capital,5.2
+MIT Sloan,2024,Consumer/Retail,5.1
+Stanford,2024,Energy,5.0
+Columbia,2022,Private Equity,4.7
+MIT Sloan,2024,Private Equity,4.7
+MIT Sloan,2024,Energy,4.6
+Columbia,2021,Private Equity,4.5
+Chicago Booth,2021,Consumer/Retail,4.4
+Kellogg,2022,Private Equity,4.33
+Kellogg,2022,Healthcare/Pharma,4.33
+MIT Sloan,2022,Private Equity,4.2
+MIT Sloan,2022,Consumer/Retail,4.1
+Chicago Booth,2024,Healthcare/Pharma,4.1
+Chicago Booth,2022,Healthcare/Pharma,4.1
+Stanford,2023,Energy,4.0
+MIT Sloan,2019,Consumer/Retail,4.0
+Stanford,2025,Energy,4.0
+Stanford,2024,Nonprofit/Government,4.0
+Stanford,2021,Nonprofit/Government,4.0
+Kellogg,2024,Private Equity,3.87
+MIT Sloan,2023,Venture Capital,3.8
+Columbia,2024,Healthcare/Pharma,3.8
+MIT Sloan,2019,Automotive/Aerospace,3.6
+NYU Stern,2025,Venture Capital,3.6
+Columbia,2022,Real Estate,3.6
+MIT Sloan,2019,Private Equity,3.6
+MIT Sloan,2022,Energy,3.5
+MIT Sloan,2020,Private Equity,3.5
+Columbia,2021,Real Estate,3.5
+MIT Sloan,2021,Private Equity,3.4
+Chicago Booth,2021,Healthcare/Pharma,3.3
+Columbia,2022,Venture Capital,3.3
+NYU Stern,2025,Private Equity,3.3
+Columbia,2022,Manufacturing,3.2
+Kellogg,2023,Healthcare/Pharma,3.18
+MIT Sloan,2020,Consumer/Retail,3.1
+Columbia,2024,Media/Entertainment,3.1
+MIT Sloan,2021,Financial Services,3.1
+MIT Sloan,2020,Automotive/Aerospace,3.1
+NYU Stern,2025,Real Estate,3.0
+Stanford,2025,Nonprofit/Government,3.0
+Stanford,2022,Nonprofit/Government,3.0
+MIT Sloan,2013,Private Equity,3.0
+MIT Sloan,2013,Venture Capital,3.0
+NYU Stern,2025,Nonprofit/Government,3.0
+Stanford,2023,Hospitality / Travel,3.0
+Stanford,2025,Inv. Banking,3.0
+Stanford,2023,Real Estate,3.0
+Stanford,2023,Nonprofit/Government,3.0
+MIT Sloan,2013,Energy,2.9
+Chicago Booth,2023,Healthcare/Pharma,2.8
+Kellogg,2024,Consumer/Retail,2.76
+Kellogg,2021,Manufacturing,2.7
+MIT Sloan,2023,Energy,2.7
+MIT Sloan,2023,Consumer/Retail,2.7
+Columbia,2024,Real Estate,2.5
+Columbia,2021,Venture Capital,2.5
+Kellogg,2024,Manufacturing,2.49
+Columbia,2024,Manufacturing,2.4
+NYU Stern,2025,Consumer/Retail,2.4
+MIT Sloan,2021,Nonprofit/Government,2.4
+MIT Sloan,2023,Private Equity,2.4
+Kellogg,2023,Manufacturing,2.39
+Kellogg,2022,Venture Capital,2.38
+MIT Sloan,2012,Automotive/Aerospace,2.3
+Chicago Booth,2024,Consumer/Retail,2.3
+Chicago Booth,2022,Consumer/Retail,2.2
+Chicago Booth,2021,Venture Capital,2.2
+MIT Sloan,2013,Automotive/Aerospace,2.2
+Chicago Booth,2023,Venture Capital,2.2
+Chicago Booth,2023,Consumer/Retail,2.2
+Kellogg,2021,Venture Capital,2.2
+Kellogg,2022,Manufacturing,2.16
+Kellogg,2023,Consumer/Retail,2.12
+MIT Sloan,2020,Venture Capital,2.1
+Stanford,2025,Hospitality/Travel,2.0
+Stanford,2025,Real Estate,2.0
+Stanford,2025,Automotive,2.0
+Stanford,2023,Manufacturing,2.0
+Stanford,2024,Manufacturing,2.0
+Stanford,2024,Real Estate,2.0
+Kellogg,2022,Operations/Logistics,2.0
+Stanford,2024,Inv. Banking,2.0
+Stanford,2022,Energy,2.0
+MIT Sloan,2012,Energy,2.0
+Kellogg,2022,Consumer/Retail,1.95
+MIT Sloan,2014,Energy,1.9
+Kellogg,2021,Consumer/Retail,1.9
+Columbia,2024,Venture Capital,1.9
+Columbia,2024,Investment Banking,17.4
+Columbia,2024,Investment Management,6.0
+Columbia,2024,Consumer Finance & Analytics,3.9
+Columbia,2024,Other Finance,1.6
+Columbia,2024,Fintech,2.0
+Columbia,2024,Beverages/Food,2.4
+Columbia,2024,Other/Diversified Products,2.8
+Columbia,2024,Education/Government/Nonprofit,1.3
+Columbia,2024,Hardware/Software/Telecom,5.7
+Columbia,2024,Internet Services/E-Commerce,4.4
+Columbia,2024,Pharma/Biotech/Devices,2.5
+Columbia,2024,Providers & Services,1.3
+Columbia,2024,Retail,0.0
+Columbia,2022,Media/Entertainment,1.9
+MIT Sloan,2014,Automotive/Aerospace,1.9
+Chicago Booth,2024,Energy,1.8
+MIT Sloan,2019,Energy,1.8
+MIT Sloan,2024,Nonprofit/Government,1.8
+MIT Sloan,2019,Nonprofit/Government,1.8
+Chicago Booth,2022,Real Estate,1.7
+MIT Sloan,2012,Private Equity,1.7
+Kellogg,2024,Venture Capital,1.66
+MIT Sloan,2014,Private Equity,1.6
+MIT Sloan,2021,Automotive/Aerospace,1.6
+Chicago Booth,2024,Real Estate,1.6
+Chicago Booth,2024,Venture Capital,1.6
+Chicago Booth,2024,Hardware 3,1.6
+Kellogg,2022,Real Estate,1.52
+Chicago Booth,2021,Real Estate,1.5
+Chicago Booth,2024,Nonprofit/Government,1.4
+MIT Sloan,2020,Financial Services,1.4
+Kellogg,2021,Medical Devices,1.4
+Chicago Booth,2023,Energy,1.4
+Kellogg,2024,Commercial Banking,1.38
+Kellogg,2023,Venture Capital,1.33
+NYU Stern,2025,Commercial Banking,1.3
+NYU Stern,2025,Transportation & Logistics,1.3
+MIT Sloan,2021,Energy,1.3
+MIT Sloan,2022,Nonprofit/Government,1.2
+Chicago Booth,2021,Energy,1.1
+Chicago Booth,2021,Services,1.1
+Columbia,2022,Healthcare/Pharma,1.1
+Kellogg,2024,Energy,1.1
+Kellogg,2023,Real Estate,1.06
+Stanford,2022,Manufacturing,1.0
+Stanford,2022,Hardware,1.0
+Stanford,2023,Automotive,1.0
+Stanford,2022,Automotive,1.0
+Stanford,2022,Transportation & Logistics <,1.0
+MIT Sloan,2020,Energy,1.0
+MIT Sloan,2014,Venture Capital,1.0
+Stanford,2022,Real Estate,1.0
+MIT Sloan,2020,Nonprofit/Government,1.0
+Kellogg,2024,Operations/Logistics,1.0
+Stanford,2025,Manufacturing,1.0
+Stanford,2022,TRANSPORTATION & LOGISTICS,1.0
+Chicago Booth,2023,Hardware,1.0
+Chicago Booth,2023,Real Estate,1.0
+Stanford,2023,Transportation & Logistics,1.0
+Columbia,2021,Corporate Finance,1.0
+Stanford,2024,Hospitality,1.0
+Kellogg,2023,Operations/Logistics,1.0
+Stanford,2023,Hardware,1.0
+Kellogg,2021,Operations/Logistics,1.0
+Chicago Booth,2024,Travel and Transportation,0.9
+Chicago Booth,2022,Services,0.9
+NYU Stern,2025,Energy,0.9
+Chicago Booth,2021,Manufacturing,0.9
+Chicago Booth,2021,Nonprofit/Government,0.9
+Kellogg,2023,Energy,0.8
+Kellogg,2021,Real Estate,0.8
+MIT Sloan,2023,Nonprofit/Government,0.7
+Chicago Booth,2024,Manufacturing,0.7
+Chicago Booth,2021,Hardware,0.7
+Columbia,2022,Consumer/Retail,0.6
+Chicago Booth,2022,Energy,0.6
+Chicago Booth,2023,Nonprofit/Government,0.6
+Chicago Booth,2023,Manufacturing,0.6
+Kellogg,2024,Real Estate,0.55
+Kellogg,2021,Energy,0.5
+Chicago Booth,2024,Commercial Banking,0.5
+Kellogg,2022,Medical Devices,0.43
+Kellogg,2022,Commercial Banking,0.43
+Chicago Booth,2022,Nonprofit/Government,0.4
+NYU Stern,2025,Manufacturing,0.4
+NYU Stern,2025,Healthcare/Pharma,0.4
+Chicago Booth,2022,Manufacturing,0.4
+Chicago Booth,2022,Media/Entertainment,0.4
+Chicago Booth,2022,Hardware,0.4
+NYU Stern,2025,Hospitality,0.3
+Kellogg,2021,Hospitality,0.3
+Kellogg,2021,Media/Entertainment,0.3
+Kellogg,2024,Medical Devices,0.28
+Kellogg,2023,Hospitality,0.27
+Kellogg,2023,Commercial Banking,0.27
+Kellogg,2023,Medical Devices,0.27
+Kellogg,2022,Energy,0.22
+Kellogg,2022,Hospitality,0.22
+Chicago Booth,2023,Commercial Banking,0.2
+Chicago Booth,2021,Hospitality,0.2
+Chicago Booth,2021,Transportation Services,0.2
+Chicago Booth,2024,Hospitality,0.2
+NYU Stern,2026,Financial Services,38.1,Internship
+NYU Stern,2026,Consulting,18.1,Internship
+NYU Stern,2026,Technology/Telecommunications,18.1,Internship
+NYU Stern,2026,Investment Banking,26.9,Internship
+NYU Stern,2026,Consumer Packaged Goods,3.9,Internship
+NYU Stern,2026,Entertainment/Media/Sports,5.1,Internship
+NYU Stern,2026,Healthcare/Pharmaceuticals/Biotech,3.6,Internship
+NYU Stern,2026,Nonprofit/Education,3.0,Internship
+NYU Stern,2026,Real Estate,3.0,Internship
+NYU Stern,2026,Retail,2.4,Internship
+NYU Stern,2026,Private Equity,3.3,Internship
+NYU Stern,2026,Venture Capital,3.6,Internship
+NYU Stern,2026,Diversified Financial Services,3.0,Internship
+NYU Stern,2026,Asset Management,0.3,Internship
+NYU Stern,2026,Commercial Banking,0.3,Internship
+NYU Stern,2026,Hedge Fund,0.6,Internship
+NYU Stern,2026,Energy,0.3,Internship
+NYU Stern,2026,Government,0.9,Internship
+NYU Stern,2026,Hospitality,0.3,Internship
+NYU Stern,2026,Law,2.4,Internship
+NYU Stern,2026,Transportation & Logistics,0.3,Internship
+NYU Stern,2026,Other,0.3,Internship
+
+Harvard,2025,Technology,22.0
+Harvard,2025,Consulting,21.0
+Harvard,2025,Private Equity,14.0
+Harvard,2025,Investment Management / Hedge Fund,7.0
+Harvard,2025,Investment Banking,6.0
+Harvard,2025,Health Care,6.0
+Harvard,2025,Manufacturing,5.0
+Harvard,2025,Nonprofit / Government,4.0
+Harvard,2025,Venture Capital,4.0
+Harvard,2025,Entertainment / Media,3.0
+Harvard,2025,Services,3.0
+Harvard,2025,Other Financial Services,3.0
+Harvard,2025,Consumer Products,2.0
+Harvard,2024,Consulting,18.0
+Harvard,2024,Technology,17.0
+Harvard,2024,Private Equity,16.0
+Harvard,2024,Investment Management / Hedge Fund,10.0
+Harvard,2024,Health Care,9.0
+Harvard,2024,Investment Banking,7.0
+Harvard,2024,Manufacturing,4.0
+Harvard,2024,Venture Capital,4.0
+Harvard,2024,Nonprofit / Government,3.0
+Harvard,2024,Services,3.0
+Harvard,2024,Other Financial Services,3.0
+Harvard,2024,Entertainment / Media,2.0
+Harvard,2024,Real Estate,2.0
+Harvard,2024,Consumer Products,2.0
+Stanford,2021,Finance,33.0
+Stanford,2021,Technology,29.0
+Stanford,2021,Consulting,18.0
+Stanford,2021,Private Equity,15.0
+Stanford,2021,Consumer Technology,14.0
+Stanford,2021,Venture Capital,11.0
+Stanford,2021,Enterprise Technology,6.0
+Stanford,2021,Healthcare,5.0
+Stanford,2021,Media/Entertainment,4.0
+Stanford,2021,Investment Management,4.0
+Stanford,2021,Real Estate,2.0
+Stanford,2021,Consumer Products,2.0
+Stanford,2021,Agriculture,1.0
+Stanford,2021,Education,1.0
+Stanford,2021,Energy,1.0
+Stanford,2021,Hospitality/Travel,1.0
+Stanford,2021,Manufacturing,1.0
+Stanford,2021,Transportation & Logistics,1.0
+Chicago Booth,2024,Consulting,33.8
+Chicago Booth,2024,Financial Services,32.9
+Chicago Booth,2024,Investment Banking/Brokerage,9.4
+Chicago Booth,2024,Private Equity,6.4
+Chicago Booth,2024,Healthcare,4.1
+Chicago Booth,2024,Real Estate,3.4
+Chicago Booth,2024,Technology,3.2
+Chicago Booth,2024,Law,2.7
+Chicago Booth,2024,Investment Management/Research,2.5
+Chicago Booth,2024,Consumer Products,2.3
+Chicago Booth,2024,Retail,1.8
+Chicago Booth,2024,Energy,1.8
+Chicago Booth,2024,Healthcare - Services,1.8
+Chicago Booth,2024,Venture Capital,1.6
+Chicago Booth,2024,Clean Tech/Renewables,1.4
+Chicago Booth,2024,Food/Beverage/Tobacco,1.4
+Chicago Booth,2024,Education/Non-Profit,1.4
+Chicago Booth,2024,Pharmaceutical Products,1.4
+Chicago Booth,2024,Diversified Financial Services,11.4
+Chicago Booth,2024,Insurance,1.1
+Chicago Booth,2024,Arts/Media/Entertainment,1.1

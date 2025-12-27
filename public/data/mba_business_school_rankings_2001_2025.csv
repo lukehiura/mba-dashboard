@@ -1,0 +1,347 @@
+School,Year,Rank
+Harvard,2001,2
+Stanford,2001,1
+Wharton,2001,4
+MIT Sloan,2001,5
+Kellogg,2001,3
+Chicago Booth,2001,9
+Berkeley Haas,2001,7
+Columbia,2001,6
+Dartmouth Tuck,2001,11
+Yale,2001,12
+NYU Stern,2001,12
+Duke Fuqua,2001,8
+Michigan Ross,2001,10
+Darden,2001,15
+Cornell,2001,16
+Harvard,2002,2
+Stanford,2002,1
+Wharton,2002,3
+MIT Sloan,2002,4
+Kellogg,2002,5
+Chicago Booth,2002,6
+Berkeley Haas,2002,10
+Columbia,2002,8
+Dartmouth Tuck,2002,9
+Yale,2002,13
+NYU Stern,2002,13
+Duke Fuqua,2002,6
+Michigan Ross,2002,10
+Darden,2002,10
+Cornell,2002,16
+Harvard,2003,1
+Stanford,2003,2
+Wharton,2003,2
+MIT Sloan,2003,4
+Kellogg,2003,4
+Chicago Booth,2003,9
+Berkeley Haas,2003,7
+Columbia,2003,6
+Dartmouth Tuck,2003,10
+Yale,2003,14
+NYU Stern,2003,12
+Duke Fuqua,2003,7
+Michigan Ross,2003,13
+Darden,2003,11
+Cornell,2003,16
+Harvard,2004,1
+Stanford,2004,2
+Wharton,2004,3
+MIT Sloan,2004,4
+Kellogg,2004,5
+Chicago Booth,2004,6
+Berkeley Haas,2004,8
+Columbia,2004,6
+Dartmouth Tuck,2004,9
+Yale,2004,14
+NYU Stern,2004,14
+Duke Fuqua,2004,11
+Michigan Ross,2004,10
+Darden,2004,12
+Cornell,2004,14
+Harvard,2005,1
+Stanford,2005,2
+Wharton,2005,2
+MIT Sloan,2005,4
+Kellogg,2005,4
+Chicago Booth,2005,8
+Berkeley Haas,2005,6
+Columbia,2005,9
+Dartmouth Tuck,2005,6
+Yale,2005,15
+NYU Stern,2005,13
+Duke Fuqua,2005,11
+Michigan Ross,2005,10
+Darden,2005,14
+Cornell,2005,15
+Harvard,2006,1
+Stanford,2006,2
+Wharton,2006,3
+MIT Sloan,2006,4
+Kellogg,2006,4
+Chicago Booth,2006,6
+Berkeley Haas,2006,7
+Columbia,2006,7
+Dartmouth Tuck,2006,9
+Yale,2006,15
+NYU Stern,2006,13
+Duke Fuqua,2006,11
+Michigan Ross,2006,11
+Darden,2006,13
+Cornell,2006,16
+Harvard,2007,1
+Stanford,2007,2
+Wharton,2007,3
+MIT Sloan,2007,4
+Kellogg,2007,5
+Chicago Booth,2007,5
+Berkeley Haas,2007,8
+Columbia,2007,9
+Dartmouth Tuck,2007,7
+Yale,2007,14
+NYU Stern,2007,10
+Duke Fuqua,2007,12
+Michigan Ross,2007,11
+Darden,2007,12
+Cornell,2007,14
+Harvard,2008,1
+Stanford,2008,1
+Wharton,2008,3
+MIT Sloan,2008,4
+Kellogg,2008,4
+Chicago Booth,2008,4
+Berkeley Haas,2008,7
+Columbia,2008,9
+Dartmouth Tuck,2008,7
+Yale,2008,13
+NYU Stern,2008,10
+Duke Fuqua,2008,14
+Michigan Ross,2008,12
+Darden,2008,14
+Cornell,2008,14
+Harvard,2009,1
+Stanford,2009,2
+Wharton,2009,3
+MIT Sloan,2009,5
+Kellogg,2009,3
+Chicago Booth,2009,5
+Berkeley Haas,2009,7
+Columbia,2009,9
+Dartmouth Tuck,2009,8
+Yale,2009,10
+NYU Stern,2009,11
+Duke Fuqua,2009,12
+Michigan Ross,2009,13
+Darden,2009,15
+Cornell,2009,17
+Harvard,2010,1
+Stanford,2010,1
+Wharton,2010,5
+MIT Sloan,2010,3
+Kellogg,2010,4
+Chicago Booth,2010,5
+Berkeley Haas,2010,7
+Columbia,2010,9
+Dartmouth Tuck,2010,7
+Yale,2010,11
+NYU Stern,2010,9
+Duke Fuqua,2010,14
+Michigan Ross,2010,12
+Darden,2010,13
+Cornell,2010,18
+Harvard,2011,1
+Stanford,2011,1
+Wharton,2011,3
+MIT Sloan,2011,3
+Kellogg,2011,5
+Chicago Booth,2011,5
+Berkeley Haas,2011,7
+Columbia,2011,9
+Dartmouth Tuck,2011,7
+Yale,2011,10
+NYU Stern,2011,10
+Duke Fuqua,2011,12
+Michigan Ross,2011,14
+Darden,2011,13
+Cornell,2011,16
+Harvard,2012,1
+Stanford,2012,1
+Wharton,2012,3
+MIT Sloan,2012,4
+Kellogg,2012,5
+Chicago Booth,2012,4
+Berkeley Haas,2012,7
+Columbia,2012,8
+Dartmouth Tuck,2012,9
+Yale,2012,10
+NYU Stern,2012,11
+Duke Fuqua,2012,12
+Michigan Ross,2012,13
+Darden,2012,13
+Cornell,2012,16
+Harvard,2013,1
+Stanford,2013,1
+Wharton,2013,3
+MIT Sloan,2013,4
+Kellogg,2013,5
+Chicago Booth,2013,6
+Berkeley Haas,2013,7
+Columbia,2013,8
+Dartmouth Tuck,2013,9
+Yale,2013,10
+NYU Stern,2013,11
+Duke Fuqua,2013,12
+Michigan Ross,2013,14
+Darden,2013,13
+Cornell,2013,16
+Harvard,2014,1
+Stanford,2014,1
+Wharton,2014,1
+MIT Sloan,2014,5
+Kellogg,2014,6
+Chicago Booth,2014,4
+Berkeley Haas,2014,7
+Columbia,2014,8
+Dartmouth Tuck,2014,9
+Yale,2014,13
+NYU Stern,2014,11
+Duke Fuqua,2014,11
+Michigan Ross,2014,11
+Darden,2014,10
+Cornell,2014,15
+Harvard,2015,2
+Stanford,2015,1
+Wharton,2015,3
+MIT Sloan,2015,5
+Kellogg,2015,6
+Chicago Booth,2015,4
+Berkeley Haas,2015,7
+Columbia,2015,8
+Dartmouth Tuck,2015,9
+Yale,2015,13
+NYU Stern,2015,11
+Duke Fuqua,2015,11
+Michigan Ross,2015,11
+Darden,2015,10
+Cornell,2015,15
+Harvard,2016,1
+Stanford,2016,2
+Wharton,2016,4
+MIT Sloan,2016,5
+Kellogg,2016,5
+Chicago Booth,2016,2
+Berkeley Haas,2016,7
+Columbia,2016,10
+Dartmouth Tuck,2016,8
+Yale,2016,8
+NYU Stern,2016,20
+Duke Fuqua,2016,11
+Michigan Ross,2016,11
+Darden,2016,11
+Cornell,2016,15
+Harvard,2017,1
+Stanford,2017,2
+Wharton,2017,4
+MIT Sloan,2017,5
+Kellogg,2017,5
+Chicago Booth,2017,2
+Berkeley Haas,2017,7
+Columbia,2017,10
+Dartmouth Tuck,2017,8
+Yale,2017,8
+NYU Stern,2017,13
+Duke Fuqua,2017,11
+Michigan Ross,2017,11
+Darden,2017,11
+Cornell,2017,15
+Harvard,2018,1
+Stanford,2018,4
+Wharton,2018,3
+MIT Sloan,2018,5
+Kellogg,2018,6
+Chicago Booth,2018,1
+Berkeley Haas,2018,7
+Columbia,2018,9
+Dartmouth Tuck,2018,10
+Yale,2018,11
+NYU Stern,2018,13
+Duke Fuqua,2018,11
+Michigan Ross,2018,7
+Darden,2018,13
+Cornell,2018,15
+Harvard,2021,6
+Stanford,2021,1
+Wharton,2021,1
+MIT Sloan,2021,5
+Kellogg,2021,3
+Chicago Booth,2021,3
+Berkeley Haas,2021,7
+Columbia,2021,8
+Dartmouth Tuck,2021,12
+Yale,2021,9
+NYU Stern,2021,10
+Duke Fuqua,2021,12
+Michigan Ross,2021,12
+Darden,2021,11
+Cornell,2021,15
+Harvard,2022,5
+Stanford,2022,1
+Wharton,2022,2
+MIT Sloan,2022,5
+Kellogg,2022,4
+Chicago Booth,2022,3
+Berkeley Haas,2022,7
+Columbia,2022,7
+Dartmouth Tuck,2022,10
+Yale,2022,9
+NYU Stern,2022,10
+Duke Fuqua,2022,12
+Michigan Ross,2022,13
+Darden,2022,13
+Cornell,2022,15
+Harvard,2023,5
+Stanford,2023,6
+Wharton,2023,3
+MIT Sloan,2023,4
+Kellogg,2023,2
+Chicago Booth,2023,1
+Berkeley Haas,2023,8
+Columbia,2023,8
+Dartmouth Tuck,2023,6
+Yale,2023,8
+NYU Stern,2023,10
+Duke Fuqua,2023,8
+Michigan Ross,2023,8
+Darden,2023,13
+Cornell,2023,15
+Harvard,2024,6
+Stanford,2024,1
+Wharton,2024,1
+MIT Sloan,2024,5
+Kellogg,2024,3
+Chicago Booth,2024,3
+Berkeley Haas,2024,7
+Columbia,2024,12
+Dartmouth Tuck,2024,10
+Yale,2024,7
+NYU Stern,2024,7
+Duke Fuqua,2024,12
+Michigan Ross,2024,12
+Darden,2024,10
+Cornell,2024,15
+Harvard,2025,6
+Stanford,2025,2
+Wharton,2025,1
+MIT Sloan,2025,5
+Kellogg,2025,2
+Chicago Booth,2025,4
+Berkeley Haas,2025,11
+Columbia,2025,9
+Dartmouth Tuck,2025,6
+Yale,2025,10
+NYU Stern,2025,6
+Duke Fuqua,2025,13
+Michigan Ross,2025,13
+Darden,2025,11
+Cornell,2025,15
+

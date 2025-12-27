@@ -1,0 +1,579 @@
+School,Year,Rank
+Stanford,1984,1.0
+Harvard,1984,2.0
+Yale,1984,3.0
+Berkeley Haas,1984,5.0
+Chicago Booth,1984,6.0
+Michigan Ross,1984,7.0
+Cornell,1984,8.0
+MIT Sloan,1984,10.0
+Dartmouth Tuck,1984,10.0
+Stanford,1986,1.0
+Harvard,1986,2.0
+Yale,1986,2.0
+Chicago Booth,1986,5.0
+Duke Fuqua,1986,6.0
+Berkeley Haas,1986,7.0
+Dartmouth Tuck,1986,10.0
+Stanford,1988,1.0
+Harvard,1988,2.0
+Yale,1988,3.0
+Berkeley Haas,1988,5.0
+Dartmouth Tuck,1988,6.0
+Duke Fuqua,1988,7.0
+Chicago Booth,1988,8.0
+Michigan Ross,1988,8.0
+MIT Sloan,1988,11.0
+Cornell,1988,11.0
+Darden,1988,15.0
+Kellogg,1988,17.0
+Columbia,1988,18.0
+Wharton,1988,19.0
+Yale,1989,1.0
+Harvard,1989,4.0
+MIT Sloan,1989,5.0
+Stanford,1989,6.0
+Dartmouth Tuck,1989,7.0
+Columbia,1989,8.0
+Chicago Booth,1989,10.0
+Duke Fuqua,1989,12.0
+Cornell,1989,14.0
+Wharton,1989,15.0
+Kellogg,1989,16.0
+Darden,1989,20.0
+Berkeley Haas,1989,24.0
+Michigan Ross,1989,25.0
+Yale,1990,1.0
+Harvard,1990,3.0
+Duke Fuqua,1990,5.0
+Stanford,1990,6.0
+MIT Sloan,1990,7.0
+Dartmouth Tuck,1990,8.0
+Chicago Booth,1990,9.0
+Cornell,1990,11.0
+Columbia,1990,11.0
+Berkeley Haas,1990,13.0
+Michigan Ross,1990,17.0
+Kellogg,1990,19.0
+Wharton,1990,20.0
+Darden,1990,21.0
+Harvard,1991,1.0
+Stanford,1991,2.0
+Yale,1991,3.0
+MIT Sloan,1991,6.0
+Duke Fuqua,1991,7.0
+Dartmouth Tuck,1991,8.0
+Cornell,1991,9.0
+Columbia,1991,10.0
+Chicago Booth,1991,11.0
+Wharton,1991,13.0
+Berkeley Haas,1991,13.0
+Darden,1991,18.0
+Michigan Ross,1991,21.0
+Kellogg,1991,23.0
+Harvard,1992,1.0
+Yale,1992,2.0
+Stanford,1992,3.0
+MIT Sloan,1992,6.0
+Duke Fuqua,1992,7.0
+Dartmouth Tuck,1992,8.0
+Columbia,1992,9.0
+Chicago Booth,1992,10.0
+Cornell,1992,12.0
+Wharton,1992,13.0
+Kellogg,1992,14.0
+Berkeley Haas,1992,16.0
+Darden,1992,21.0
+Michigan Ross,1992,22.0
+Harvard,1993,1.0
+Yale,1993,3.0
+Stanford,1993,4.0
+MIT Sloan,1993,5.0
+Duke Fuqua,1993,7.0
+Dartmouth Tuck,1993,7.0
+Chicago Booth,1993,9.0
+Columbia,1993,10.0
+Cornell,1993,11.0
+Kellogg,1993,13.0
+Wharton,1993,14.0
+Berkeley Haas,1993,16.0
+Darden,1993,22.0
+Michigan Ross,1993,24.0
+Harvard,1994,1.0
+Yale,1994,3.0
+MIT Sloan,1994,4.0
+Stanford,1994,6.0
+Duke Fuqua,1994,7.0
+Dartmouth Tuck,1994,8.0
+Chicago Booth,1994,9.0
+Cornell,1994,10.0
+Columbia,1994,11.0
+Kellogg,1994,13.0
+Wharton,1994,16.0
+Berkeley Haas,1994,19.0
+Darden,1994,21.0
+Michigan Ross,1994,23.0
+Harvard,1995,1.0
+Yale,1995,3.0
+MIT Sloan,1995,4.0
+Stanford,1995,5.0
+Duke Fuqua,1995,6.0
+Dartmouth Tuck,1995,8.0
+Columbia,1995,9.0
+Chicago Booth,1995,10.0
+Wharton,1995,12.0
+Kellogg,1995,14.0
+Cornell,1995,15.0
+Darden,1995,17.0
+Michigan Ross,1995,21.0
+Berkeley Haas,1995,23.0
+Harvard,1996,1.0
+Yale,1996,2.0
+Stanford,1996,4.0
+MIT Sloan,1996,5.0
+Duke Fuqua,1996,6.0
+Dartmouth Tuck,1996,7.0
+Chicago Booth,1996,11.0
+Wharton,1996,11.0
+Kellogg,1996,13.0
+Cornell,1996,13.0
+Columbia,1996,15.0
+Darden,1996,19.0
+Michigan Ross,1996,24.0
+Berkeley Haas,1996,26.0
+NYU Stern,1996,36.0
+Yale,1997,1.0
+Harvard,1997,3.0
+Duke Fuqua,1997,4.0
+MIT Sloan,1997,5.0
+Stanford,1997,6.0
+Dartmouth Tuck,1997,7.0
+Kellogg,1997,9.0
+Columbia,1997,11.0
+Chicago Booth,1997,12.0
+Wharton,1997,13.0
+Cornell,1997,14.0
+Darden,1997,21.0
+Michigan Ross,1997,24.0
+Berkeley Haas,1997,27.0
+NYU Stern,1997,35.0
+Harvard,1998,1.0
+Yale,1998,3.0
+Duke Fuqua,1998,3.0
+Stanford,1998,5.0
+MIT Sloan,1998,6.0
+Wharton,1998,7.0
+Dartmouth Tuck,1998,7.0
+Kellogg,1998,9.0
+Columbia,1998,9.0
+Chicago Booth,1998,14.0
+Cornell,1998,14.0
+Darden,1998,21.0
+Berkeley Haas,1998,23.0
+Michigan Ross,1998,23.0
+NYU Stern,1998,34.0
+Harvard,1999,1.0
+Yale,1999,1.0
+MIT Sloan,1999,4.0
+Stanford,1999,4.0
+Wharton,1999,6.0
+Duke Fuqua,1999,6.0
+Cornell,1999,6.0
+Kellogg,1999,10.0
+Dartmouth Tuck,1999,10.0
+Columbia,1999,10.0
+Chicago Booth,1999,14.0
+Berkeley Haas,1999,22.0
+Darden,1999,22.0
+Michigan Ross,1999,25.0
+NYU Stern,1999,35.0
+Harvard,2000,2.0
+MIT Sloan,2000,3.0
+Yale,2000,4.0
+Stanford,2000,6.0
+Wharton,2000,7.0
+Duke Fuqua,2000,7.0
+Columbia,2000,10.0
+Dartmouth Tuck,2000,11.0
+Cornell,2000,11.0
+Chicago Booth,2000,13.0
+Kellogg,2000,14.0
+Berkeley Haas,2000,20.0
+Darden,2000,22.0
+Michigan Ross,2000,25.0
+NYU Stern,2000,34.0
+Harvard,2001,2.0
+Yale,2001,2.0
+MIT Sloan,2001,5.0
+Stanford,2001,6.0
+Wharton,2001,6.0
+Duke Fuqua,2001,8.0
+Dartmouth Tuck,2001,9.0
+Chicago Booth,2001,10.0
+Cornell,2001,10.0
+Columbia,2001,10.0
+Kellogg,2001,13.0
+Berkeley Haas,2001,20.0
+Darden,2001,20.0
+Michigan Ross,2001,25.0
+NYU Stern,2001,33.0
+Harvard,2002,2.0
+Yale,2002,2.0
+MIT Sloan,2002,5.0
+Stanford,2002,5.0
+Wharton,2002,5.0
+Duke Fuqua,2002,8.0
+Chicago Booth,2002,9.0
+Dartmouth Tuck,2002,9.0
+Columbia,2002,9.0
+Kellogg,2002,12.0
+Cornell,2002,14.0
+Berkeley Haas,2002,20.0
+Darden,2002,24.0
+Michigan Ross,2002,25.0
+NYU Stern,2002,32.0
+Harvard,2003,2.0
+Yale,2003,2.0
+MIT Sloan,2003,4.0
+Stanford,2003,4.0
+Wharton,2003,4.0
+Duke Fuqua,2003,4.0
+Dartmouth Tuck,2003,9.0
+Kellogg,2003,10.0
+Columbia,2003,10.0
+Chicago Booth,2003,12.0
+Cornell,2003,14.0
+Berkeley Haas,2003,20.0
+Darden,2003,23.0
+Michigan Ross,2003,25.0
+NYU Stern,2003,35.0
+Harvard,2004,1.0
+Yale,2004,3.0
+MIT Sloan,2004,4.0
+Stanford,2004,5.0
+Wharton,2004,5.0
+Duke Fuqua,2004,5.0
+Dartmouth Tuck,2004,9.0
+Kellogg,2004,11.0
+Columbia,2004,11.0
+Chicago Booth,2004,13.0
+Cornell,2004,14.0
+Berkeley Haas,2004,21.0
+Darden,2004,21.0
+Michigan Ross,2004,25.0
+NYU Stern,2004,35.0
+Harvard,2005,1.0
+Yale,2005,3.0
+Wharton,2005,4.0
+MIT Sloan,2005,5.0
+Stanford,2005,5.0
+Duke Fuqua,2005,5.0
+Dartmouth Tuck,2005,9.0
+Columbia,2005,9.0
+Kellogg,2005,11.0
+Chicago Booth,2005,14.0
+Cornell,2005,14.0
+Berkeley Haas,2005,21.0
+Michigan Ross,2005,22.0
+Darden,2005,22.0
+NYU Stern,2005,32.0
+Harvard,2006,1.0
+Yale,2006,3.0
+Wharton,2006,4.0
+Stanford,2006,5.0
+Duke Fuqua,2006,5.0
+MIT Sloan,2006,7.0
+Dartmouth Tuck,2006,9.0
+Columbia,2006,9.0
+Kellogg,2006,12.0
+Cornell,2006,13.0
+Chicago Booth,2006,15.0
+Berkeley Haas,2006,20.0
+Darden,2006,23.0
+Michigan Ross,2006,25.0
+NYU Stern,2006,37.0
+Harvard,2007,2.0
+Yale,2007,3.0
+MIT Sloan,2007,4.0
+Stanford,2007,4.0
+Wharton,2007,7.0
+Duke Fuqua,2007,8.0
+Chicago Booth,2007,9.0
+Dartmouth Tuck,2007,9.0
+Columbia,2007,9.0
+Cornell,2007,12.0
+Kellogg,2007,14.0
+Berkeley Haas,2007,21.0
+Michigan Ross,2007,24.0
+Darden,2007,24.0
+NYU Stern,2007,34.0
+Harvard,2008,2.0
+Yale,2008,3.0
+Stanford,2008,4.0
+Wharton,2008,5.0
+MIT Sloan,2008,7.0
+Duke Fuqua,2008,8.0
+Chicago Booth,2008,9.0
+Columbia,2008,9.0
+Dartmouth Tuck,2008,11.0
+Cornell,2008,12.0
+Kellogg,2008,14.0
+Berkeley Haas,2008,21.0
+Darden,2008,23.0
+Michigan Ross,2008,25.0
+NYU Stern,2008,34.0
+Harvard,2009,1.0
+Yale,2009,3.0
+MIT Sloan,2009,4.0
+Stanford,2009,4.0
+Wharton,2009,6.0
+Chicago Booth,2009,8.0
+Duke Fuqua,2009,8.0
+Columbia,2009,8.0
+Dartmouth Tuck,2009,11.0
+Kellogg,2009,12.0
+Cornell,2009,14.0
+Berkeley Haas,2009,21.0
+Darden,2009,23.0
+Michigan Ross,2009,26.0
+NYU Stern,2009,33.0
+Harvard,2010,1.0
+Yale,2010,3.0
+MIT Sloan,2010,4.0
+Stanford,2010,4.0
+Wharton,2010,4.0
+Chicago Booth,2010,8.0
+Columbia,2010,8.0
+Duke Fuqua,2010,10.0
+Dartmouth Tuck,2010,11.0
+Kellogg,2010,12.0
+Cornell,2010,15.0
+Berkeley Haas,2010,21.0
+Darden,2010,24.0
+Michigan Ross,2010,27.0
+NYU Stern,2010,32.0
+Harvard,2011,1.0
+Yale,2011,3.0
+Columbia,2011,4.0
+Stanford,2011,5.0
+Wharton,2011,5.0
+MIT Sloan,2011,7.0
+Chicago Booth,2011,9.0
+Duke Fuqua,2011,9.0
+Dartmouth Tuck,2011,9.0
+Kellogg,2011,12.0
+Cornell,2011,15.0
+Berkeley Haas,2011,22.0
+Darden,2011,25.0
+Michigan Ross,2011,29.0
+NYU Stern,2011,33.0
+Harvard,2012,1.0
+Yale,2012,3.0
+Columbia,2012,4.0
+MIT Sloan,2012,5.0
+Stanford,2012,5.0
+Chicago Booth,2012,5.0
+Wharton,2012,5.0
+Duke Fuqua,2012,10.0
+Dartmouth Tuck,2012,11.0
+Kellogg,2012,12.0
+Cornell,2012,15.0
+Berkeley Haas,2012,21.0
+Darden,2012,25.0
+Michigan Ross,2012,28.0
+NYU Stern,2012,33.0
+Harvard,2013,1.0
+Yale,2013,3.0
+Chicago Booth,2013,4.0
+Columbia,2013,4.0
+MIT Sloan,2013,6.0
+Stanford,2013,6.0
+Wharton,2013,8.0
+Duke Fuqua,2013,8.0
+Dartmouth Tuck,2013,10.0
+Kellogg,2013,12.0
+Cornell,2013,15.0
+Berkeley Haas,2013,21.0
+Darden,2013,24.0
+Michigan Ross,2013,29.0
+NYU Stern,2013,32.0
+Harvard,2014,2.0
+Yale,2014,3.0
+Columbia,2014,4.0
+Stanford,2014,5.0
+Chicago Booth,2014,5.0
+MIT Sloan,2014,7.0
+Wharton,2014,7.0
+Duke Fuqua,2014,7.0
+Dartmouth Tuck,2014,10.0
+Kellogg,2014,12.0
+Cornell,2014,16.0
+Berkeley Haas,2014,20.0
+Darden,2014,23.0
+Michigan Ross,2014,28.0
+NYU Stern,2014,32.0
+Harvard,2015,2.0
+Yale,2015,3.0
+Stanford,2015,4.0
+Chicago Booth,2015,4.0
+Columbia,2015,4.0
+MIT Sloan,2015,7.0
+Wharton,2015,8.0
+Duke Fuqua,2015,8.0
+Dartmouth Tuck,2015,11.0
+Kellogg,2015,13.0
+Cornell,2015,15.0
+Berkeley Haas,2015,20.0
+Darden,2015,23.0
+Michigan Ross,2015,29.0
+NYU Stern,2015,32.0
+Harvard,2016,2.0
+Yale,2016,3.0
+Stanford,2016,4.0
+Chicago Booth,2016,4.0
+Columbia,2016,4.0
+MIT Sloan,2016,7.0
+Duke Fuqua,2016,8.0
+Wharton,2016,9.0
+Kellogg,2016,12.0
+Dartmouth Tuck,2016,12.0
+Cornell,2016,15.0
+Berkeley Haas,2016,20.0
+Darden,2016,26.0
+Michigan Ross,2016,29.0
+NYU Stern,2016,32.0
+Harvard,2017,2.0
+Yale,2017,3.0
+Chicago Booth,2017,3.0
+Stanford,2017,5.0
+Columbia,2017,5.0
+MIT Sloan,2017,7.0
+Wharton,2017,8.0
+Duke Fuqua,2017,8.0
+Dartmouth Tuck,2017,11.0
+Kellogg,2017,12.0
+Cornell,2017,15.0
+Berkeley Haas,2017,20.0
+Darden,2017,24.0
+Michigan Ross,2017,27.0
+NYU Stern,2017,36.0
+Harvard,2018,2.0
+Yale,2018,3.0
+Chicago Booth,2018,3.0
+MIT Sloan,2018,5.0
+Stanford,2018,5.0
+Columbia,2018,5.0
+Wharton,2018,8.0
+Duke Fuqua,2018,9.0
+Kellogg,2018,11.0
+Dartmouth Tuck,2018,11.0
+Cornell,2018,14.0
+Berkeley Haas,2018,21.0
+Darden,2018,25.0
+Michigan Ross,2018,28.0
+NYU Stern,2018,30.0
+Harvard,2019,2.0
+MIT Sloan,2019,3.0
+Yale,2019,3.0
+Chicago Booth,2019,3.0
+Columbia,2019,3.0
+Stanford,2019,7.0
+Wharton,2019,8.0
+Duke Fuqua,2019,8.0
+Kellogg,2019,10.0
+Dartmouth Tuck,2019,12.0
+Cornell,2019,16.0
+Berkeley Haas,2019,22.0
+Darden,2019,25.0
+Michigan Ross,2019,27.0
+NYU Stern,2019,30.0
+Harvard,2020,2.0
+MIT Sloan,2020,3.0
+Yale,2020,3.0
+Columbia,2020,3.0
+Stanford,2020,6.0
+Chicago Booth,2020,6.0
+Wharton,2020,6.0
+Kellogg,2020,9.0
+Duke Fuqua,2020,10.0
+Dartmouth Tuck,2020,12.0
+Cornell,2020,17.0
+Berkeley Haas,2020,22.0
+Michigan Ross,2020,25.0
+Darden,2020,28.0
+NYU Stern,2020,29.0
+Harvard,2021,2.0
+Columbia,2021,3.0
+MIT Sloan,2021,4.0
+Yale,2021,4.0
+Stanford,2021,6.0
+Chicago Booth,2021,6.0
+Wharton,2021,8.0
+Kellogg,2021,9.0
+Duke Fuqua,2021,12.0
+Dartmouth Tuck,2021,13.0
+Cornell,2021,18.0
+Berkeley Haas,2021,22.0
+Michigan Ross,2021,24.0
+Darden,2021,26.0
+NYU Stern,2021,30.0
+MIT Sloan,2022,2.0
+Harvard,2022,2.0
+Columbia,2022,2.0
+Yale,2022,5.0
+Stanford,2022,6.0
+Chicago Booth,2022,6.0
+Wharton,2022,8.0
+Duke Fuqua,2022,9.0
+Kellogg,2022,9.0
+Dartmouth Tuck,2022,13.0
+Cornell,2022,17.0
+Berkeley Haas,2022,22.0
+Michigan Ross,2022,23.0
+Darden,2022,25.0
+NYU Stern,2022,28.0
+MIT Sloan,2023,2.0
+Harvard,2023,3.0
+Yale,2023,3.0
+Stanford,2023,3.0
+Chicago Booth,2023,6.0
+Wharton,2023,7.0
+Duke Fuqua,2023,10.0
+Kellogg,2023,10.0
+Dartmouth Tuck,2023,12.0
+Cornell,2023,17.0
+Columbia,2023,18.0
+Berkeley Haas,2023,20.0
+Michigan Ross,2023,25.0
+Darden,2023,25.0
+NYU Stern,2023,25.0
+MIT Sloan,2024,2.0
+Harvard,2024,3.0
+Stanford,2024,3.0
+Yale,2024,5.0
+Wharton,2024,6.0
+Duke Fuqua,2024,7.0
+Kellogg,2024,9.0
+Chicago Booth,2024,12.0
+Cornell,2024,12.0
+Columbia,2024,12.0
+Berkeley Haas,2024,15.0
+Dartmouth Tuck,2024,18.0
+Michigan Ross,2024,21.0
+Darden,2024,24.0
+NYU Stern,2024,35.0
+MIT Sloan,2025,2.0
+Harvard,2025,3.0
+Stanford,2025,4.0
+Yale,2025,5.0
+Duke Fuqua,2025,6.0
+Kellogg,2025,6.0
+Wharton,2025,10.0
+Chicago Booth,2025,11.0
+Cornell,2025,11.0
+Columbia,2025,13.0
+Dartmouth Tuck,2025,15.0
+Berkeley Haas,2025,17.0
+Michigan Ross,2025,21.0
+Darden,2025,24.0
+NYU Stern,2025,30.0

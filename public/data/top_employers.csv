@@ -1,0 +1,150 @@
+School,Year,Company,New_Hires,Total_Hires,Job_Type
+Columbia,2024,McKinsey & Company,50,62,Graduate
+Columbia,2024,Boston Consulting Group,29,36,Graduate
+Columbia,2024,Amazon,14,14,Graduate
+Columbia,2024,PricewaterhouseCoopers International Limited,12,15,Graduate
+Columbia,2024,Bain & Company,12,21,Graduate
+Columbia,2024,JPMorgan Chase & Co.,11,11,Graduate
+Columbia,2024,Citigroup Inc.,10,10,Graduate
+Columbia,2024,Deloitte,10,13,Graduate
+Columbia,2024,Bank of America,10,10,Graduate
+Columbia,2024,Evercore Inc.,9,9,Graduate
+Columbia,2024,Lazard Inc.,8,8,Graduate
+Columbia,2024,Visa Inc.,8,8,Graduate
+Columbia,2024,Morgan Stanley,8,8,Graduate
+Columbia,2024,American Express,6,6,Graduate
+Columbia,2024,Barclays,6,6,Graduate
+Columbia,2024,Ernst & Young Global Limited,6,6,Graduate
+Columbia,2024,Goldman Sachs & Co. LLC,6,6,Graduate
+Columbia,2024,TikTok,5,5,Graduate
+Columbia,2024,Jeferies Financial Group Inc.,5,5,Graduate
+Columbia,2024,Moelis & Company,5,5,Graduate
+Columbia,2024,Google,5,5,Graduate
+Columbia,2024,Kearney,5,9,Graduate
+Columbia,2024,UBS Group AG,4,4,Graduate
+Columbia,2024,PJT Partners,4,4,Graduate
+Columbia,2024,Oliver Wyman,4,6,Graduate
+Columbia,2024,Capital One,4,4,Graduate
+Columbia,2024,Pfzer Inc.,4,4,Graduate
+Columbia,2025,Boston Consulting Group,36,,Intern
+Columbia,2025,Amazon,31,,Intern
+Columbia,2025,McKinsey & Company,17,,Intern
+Columbia,2025,Goldman Sachs & Co. LLC,14,,Intern
+Columbia,2025,JPMorgan Chase & Co.,14,,Intern
+Columbia,2025,Bank of America,13,,Intern
+Columbia,2025,Morgan Stanley,11,,Intern
+Columbia,2025,Citigroup Inc.,10,,Intern
+Columbia,2025,Bain & Company,9,,Intern
+Columbia,2025,Deloitte,9,,Intern
+Columbia,2025,Moelis & Company,8,,Intern
+Columbia,2025,Evercore Inc.,8,,Intern
+Columbia,2025,Apple,7,,Intern
+Columbia,2025,Lazard Inc.,6,,Intern
+Columbia,2025,UBS Group AG,6,,Intern
+Columbia,2025,PepsiCo Inc.,5,,Intern
+Columbia,2025,PJT Partners,5,,Intern
+Columbia,2025,Perella Weinberg Partners L.P.,5,,Intern
+Columbia,2025,Alvarez & Marsal,5,,Intern
+Columbia,2025,Guggenheim Partners LLC,5,,Intern
+Columbia,2025,Barclays,5,,Intern
+Columbia,2025,Ernst & Young Global Limited,5,,Intern
+Columbia,2025,BlackRock Inc.,4,,Intern
+Columbia,2025,Adobe Inc.,4,,Intern
+Columbia,2025,Nike Inc.,4,,Intern
+Columbia,2025,American Express,4,,Intern
+Columbia,2025,Pfzer Inc.,4,,Intern
+Columbia,2025,IBM,4,,Intern
+Chicago Booth,2024,Boston Consulting Group,48,,Graduate
+Chicago Booth,2024,McKinsey & Company,33,,Graduate
+Chicago Booth,2024,Bain & Company,20,,Graduate
+Chicago Booth,2024,Amazon.com,16,,Graduate
+Chicago Booth,2024,Goldman Sachs Group,9,,Graduate
+Chicago Booth,2024,JPMorgan Chase & Co.,8,,Graduate
+Chicago Booth,2024,Bank of America,7,,Graduate
+Chicago Booth,2024,Citigroup,7,,Graduate
+Chicago Booth,2024,Deloitte Consulting,7,,Graduate
+Chicago Booth,2024,L.E.K. Consulting,7,,Graduate
+Chicago Booth,2024,Capital One Financial,6,,Graduate
+Chicago Booth,2024,EY-Parthenon,6,,Graduate
+Chicago Booth,2024,TikTok,6,,Graduate
+Chicago Booth,2024,Evercore Partners,5,,Graduate
+Chicago Booth,2024,Google,5,,Graduate
+Chicago Booth,2024,Morgan Stanley,5,,Graduate
+Chicago Booth,2024,Guggenheim Partners,4,,Graduate
+Chicago Booth,2024,Lazard Freres & Co.,4,,Graduate
+Chicago Booth,2024,Samsung Group,4,,Graduate
+Chicago Booth,2024,UBS AG,4,,Graduate
+Chicago Booth,2024,Walmart,4,,Graduate
+Chicago Booth,2023,McKinsey & Company,71,,Graduate
+Chicago Booth,2023,Boston Consulting Group,52,,Graduate
+Chicago Booth,2023,Bain & Company,30,,Graduate
+Chicago Booth,2023,Amazon.com,17,,Graduate
+Chicago Booth,2023,Goldman Sachs Group,15,,Graduate
+Chicago Booth,2023,Citigroup,12,,Graduate
+Chicago Booth,2023,Morgan Stanley,9,,Graduate
+Chicago Booth,2023,PwC Strategy&,8,,Graduate
+Chicago Booth,2023,Kearney,6,,Graduate
+Chicago Booth,2023,Alpine Investors,5,,Graduate
+Chicago Booth,2023,C3.ai,5,,Graduate
+Chicago Booth,2023,Capital One Financial,5,,Graduate
+Chicago Booth,2023,Credit Suisse,5,,Graduate
+Chicago Booth,2023,Google,5,,Graduate
+Chicago Booth,2023,L.E.K. Consulting,5,,Graduate
+Chicago Booth,2023,Lazard Freres & Co.,5,,Graduate
+Chicago Booth,2023,ServiceNow,5,,Graduate
+Chicago Booth,2023,Bank of America,4,,Graduate
+Chicago Booth,2023,Brookfield Asset Management,4,,Graduate
+Chicago Booth,2023,Evercore Partners,4,,Graduate
+Chicago Booth,2023,EY-Parthenon,4,,Graduate
+Chicago Booth,2023,JPMorgan Chase & Co.,4,,Graduate
+Chicago Booth,2023,Nike,4,,Graduate
+Chicago Booth,2023,PepsiCo,4,,Graduate
+NYU Stern,2025,McKinsey & Company,14,,Graduate
+NYU Stern,2025,J.P. Morgan,14,,Graduate
+NYU Stern,2025,Bain & Company,10,,Graduate
+NYU Stern,2025,EY-Parthenon,8,,Graduate
+NYU Stern,2025,Bank of America,7,,Graduate
+NYU Stern,2025,Goldman Sachs & Co.,7,,Graduate
+NYU Stern,2025,Boston Consulting Group (BCG),6,,Graduate
+NYU Stern,2025,Citi,5,,Graduate
+NYU Stern,2025,Deloitte,5,,Graduate
+NYU Stern,2025,Infosys Consulting,4,,Graduate
+NYU Stern,2025,Capital One,4,,Graduate
+NYU Stern,2025,Mastercard,4,,Graduate
+NYU Stern,2025,EY,4,,Graduate
+NYU Stern,2025,Strategy&,3,,Graduate
+NYU Stern,2025,UBS,3,,Graduate
+NYU Stern,2025,Barclays Capital Group,3,,Graduate
+NYU Stern,2025,Fiserv,3,,Graduate
+NYU Stern,2025,Pfizer Inc.,3,,Graduate
+NYU Stern,2025,Morgan Stanley,3,,Graduate
+NYU Stern,2025,Kearney,3,,Graduate
+NYU Stern,2026,Boston Consulting Group (BCG),16,,Intern
+NYU Stern,2026,J.P. Morgan,15,,Intern
+NYU Stern,2026,Citi,12,,Intern
+NYU Stern,2026,Amazon,11,,Intern
+NYU Stern,2026,Goldman Sachs & Co.,9,,Intern
+NYU Stern,2026,Morgan Stanley,8,,Intern
+NYU Stern,2026,Fiserv,7,,Intern
+NYU Stern,2026,Deloitte,7,,Intern
+NYU Stern,2026,Bank of America,5,,Intern
+NYU Stern,2026,PricewaterhouseCoopers (PwC),5,,Intern
+NYU Stern,2026,Strategy&,5,,Intern
+NYU Stern,2026,Guggenheim Securities,5,,Intern
+NYU Stern,2026,Bain & Company,4,,Intern
+NYU Stern,2026,Moelis & Company,4,,Intern
+NYU Stern,2026,Pfizer Inc.,3,,Intern
+NYU Stern,2026,The Chartis Group,3,,Intern
+NYU Stern,2026,RBC Capital Markets,3,,Intern
+NYU Stern,2026,Jefferies & Company Inc.,3,,Intern
+NYU Stern,2026,Paramount Global,3,,Intern
+NYU Stern,2026,Kearney,3,,Intern
+NYU Stern,2026,Apple,3,,Intern
+NYU Stern,2026,Marsh & McLennan,3,,Intern
+NYU Stern,2026,UBS,3,,Intern
+NYU Stern,2026,TikTok,3,,Intern
+NYU Stern,2026,DHRpro LLC,3,,Intern
+NYU Stern,2026,EY-Parthenon,3,,Intern
+NYU Stern,2026,inStorify,3,,Intern
+NYU Stern,2026,Wells Fargo,3,,Intern
+
